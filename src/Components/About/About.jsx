@@ -1,6 +1,6 @@
 import React from 'react'
 import "./about.css"
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/Black.jpg'
 import {FaAward} from "react-icons/fa"
 import {TbCertificate} from "react-icons/tb"
 import {VscFolderActive} from "react-icons/vsc"
@@ -39,7 +39,7 @@ const About = () => {
               <small>3+ Completed Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad quo itaque aperiam non repellendus placeat nobis esse ut quasi maxime amet dolorum molestiae natus odio libero doloribus, alias ipsam officia.</p>
+          <p>Diligent software engineer, that is eager to learn and improve skills. Excellent coordination and communication among team, with a wide range of knowledge in feilds which provides flexibility to fill any required role in a team</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
