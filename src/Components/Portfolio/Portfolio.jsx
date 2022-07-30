@@ -18,7 +18,7 @@ export const Portfolio = () => {
           <h3>Password Generator</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Modealf/Password-Generator" className='btn' target="_blank">Github</a>
-          <a href="https://github.com/Modealf/Password-Generator" className='btn btn-primary' target="_blank">Live Demo</a>
+          <a href="https://50projects50days.com/projects/password-generator/" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -28,7 +28,7 @@ export const Portfolio = () => {
           <h3>Input Form: Sign In Page</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Modealf/Form-Input" className='btn' target="_blank">Github</a>
-          <a href="https://github.com/Modealf/Password-Generator" className='btn btn-primary' target="_blank">Live Demo</a>
+          <a href="https://50projects50days.com/projects/form-wave/" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -38,7 +38,7 @@ export const Portfolio = () => {
           <h3>Responsive Hover-Board </h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Modealf/HoverBoard" className='btn' target="_blank">Github</a>
-          <a href="https://github.com/Modealf/Password-Generator" className='btn btn-primary' target="_blank">Live Demo</a>
+          <a href="https://50projects50days.com/projects/hoverboard/" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
       </div>
